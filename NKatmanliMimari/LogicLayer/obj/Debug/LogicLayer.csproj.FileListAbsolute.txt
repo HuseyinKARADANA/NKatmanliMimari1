@@ -1,0 +1,11 @@
+C:\Users\huseyinkaradana\source\repos\NKatmanliMimari\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\huseyinkaradana\source\repos\NKatmanliMimari\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\huseyinkaradana\source\repos\NKatmanliMimari\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\huseyinkaradana\source\repos\NKatmanliMimari\LogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\huseyinkaradana\source\repos\NKatmanliMimari\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\huseyinkaradana\source\repos\NKatmanliMimari\LogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\huseyinkaradana\source\repos\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\huseyinkaradana\source\repos\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\huseyinkaradana\source\repos\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\huseyinkaradana\source\repos\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\huseyinkaradana\source\repos\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.pdb
